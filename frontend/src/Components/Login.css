@@ -1,0 +1,59 @@
+/* Center the entire login form */
+#b-img {
+    background-image: url('https://images.creativemarket.com/0.1.0/ps/4236966/1820/1213/m1/fpnw/wm1/sogsvrlqh72xgiipezdauuzhs2sr0bybcel6505dy3y2aagtywzijgbxnisfyu46-.jpg?1522829692&s=01b060822bfbcbbb0623af512a70f03d'); /* Add your background image here */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Style the container */
+  .border-success {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent background */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a box shadow for depth */
+  }
+  
+  /* Style the form */
+  form {
+    text-align: center;
+  }
+  
+  /* Style the form title */
+  .text-center {
+    color: #333;
+  }
+  
+  /* Style form labels */
+  label {
+    font-weight: bold;
+  }
+  
+  /* Style input fields */
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style the "Remember Password" checkbox */
+  input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  /* Style the "Login" button */
+  .btn-danger {
+    background-color: #ff6347; /* Change to your desired button color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Style the search input and button */
+  
+  
