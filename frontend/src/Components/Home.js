@@ -161,6 +161,131 @@ const Home = () => {
             </div>
         </div>
         </div>
+
+
+    <br/>
+    <br/>
+    <h1 id="edit">Trending Receipes</h1>
+     <div class="container">
+        <div class="row">
+            <div class=" col-6 col-sm-3 col-md-3 col-lg-3 p-4">
+            <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header bg-warning">
+                        <center>
+                        <img src="https://th.bing.com/th/id/OIP.jvnO703Fk4gw_YJ2eNoMqwHaHa?pid=ImgDet&rs=1"  width="200px" height="200px"
+                        alt="Loading"
+                        />
+                    </center>
+
+                    </div>
+                    <div class="card-body bg-success-subtle">
+                        <h5>Spring Roll salad</h5>
+                        <p>
+                            Rating 3.5/5 &nbsp;
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+  <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.565.565 0 0 0-.163-.505L1.71 6.745l4.052-.576a.525.525 0 0 0 .393-.288L8 2.223l1.847 3.658a.525.525 0 0 0 .393.288l4.052.575-2.906 2.77a.565.565 0 0 0-.163.506l.694 3.957-3.686-1.894a.503.503 0 0 0-.461 0z"/>
+</svg>
+                      </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+            </div>
+            <div class="col-6 col-sm-3 col-md-3 col-lg-3 p-4">
+            <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header bg-warning ">
+                        <center>
+                        <img src="https://th.bing.com/th/id/OIP.TrjDY--YcS6Am3UDFp_kRAHaFj?pid=ImgDet&rs=1" width="200px" height="150px"
+                        alt="Loading"
+                        />
+                    </center>
+
+                    </div>
+                    <div class="card-body bg-success-subtle">
+                        <h5>Korean pan-fried zucchini coins (aehobak-jeon)</h5>
+                        <p>
+                        Rating 4.5/5 &nbsp;
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+  <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.565.565 0 0 0-.163-.505L1.71 6.745l4.052-.576a.525.525 0 0 0 .393-.288L8 2.223l1.847 3.658a.525.525 0 0 0 .393.288l4.052.575-2.906 2.77a.565.565 0 0 0-.163.506l.694 3.957-3.686-1.894a.503.503 0 0 0-.461 0z"/>
+</svg>
+                        </p>
+                    </div>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+            </div>
+            <div class="col-6 col-sm-3 col-md-3 col-lg-3 p-4">
+            <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header bg-warning">
+                        <center>
+                        <img src="https://th.bing.com/th/id/OIP.jX4CSlT_z5NuJ5gV91QgfgHaKX?pid=ImgDet&rs=1" width="200px" height="175px"
+                        alt="Loading"
+                        />
+                    </center>
+
+                    </div>
+                    <div class="card-body bg-success-subtle">
+                        <h5>Best Ever Chewy Brownies Recipe</h5>
+                        <p>
+                        Rating 4.5/5 &nbsp;
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+  <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.565.565 0 0 0-.163-.505L1.71 6.745l4.052-.576a.525.525 0 0 0 .393-.288L8 2.223l1.847 3.658a.525.525 0 0 0 .393.288l4.052.575-2.906 2.77a.565.565 0 0 0-.163.506l.694 3.957-3.686-1.894a.503.503 0 0 0-.461 0z"/>
+</svg>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+            </div>
+            <div class="col-6 col-sm-3 col-md-3 col-lg-3 p-4">
+            <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header bg-warning ">
+                        <center>
+                        <img src="https://recipes.timesofindia.com/photo/55829991.cms?imgsize=112800" width="200px" height="175px"
+                        alt="Loading"
+                        />
+                    </center>
+
+                    </div>
+                    <div class="card-body bg-success-subtle">
+                        <h5>Perfectly grilled salmon fillet</h5>
+                        <p> Rating 3/5 &nbsp;
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+  <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.565.565 0 0 0-.163-.505L1.71 6.745l4.052-.576a.525.525 0 0 0 .393-.288L8 2.223l1.847 3.658a.525.525 0 0 0 .393.288l4.052.575-2.906 2.77a.565.565 0 0 0-.163.506l.694 3.957-3.686-1.894a.503.503 0 0 0-.461 0z"/>
+</svg>
+                        </p>
+                    </div>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+            </div>
+        </div>
+        </div>     
+
+
+        
     
     
 

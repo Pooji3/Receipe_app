@@ -9,7 +9,6 @@ const Search = () => {
             <h1>Welcome to our Recipe App</h1>
             <p>Explore delicious recipes and more...</p>
             <div className="search-bar">
-            {/* <label htmlFor="search">Search</label> */}
             <div className='input-group'>
               <input type="text" 
                 className="form-control" 
@@ -21,15 +20,6 @@ const Search = () => {
                 </svg>
               </button>
             </div>
-              {/* <input
-                type="text"
-                className="form-control"
-                placeholder="Search for recipes..."
-              /> */}
-              {/* <button className="btn btn-primary">Search</button> */}
-                {/* <Link className="btn btn-warning mx-1"to="/login">
-                    Login
-                </Link> */}
                 
             </div>
           </div>

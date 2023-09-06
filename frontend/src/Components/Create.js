@@ -32,7 +32,7 @@ class Create extends React.Component {
     render() {
 
       return (
-        <div className="container">
+        <div className="container" id="styless">
           <div className="row justify-content-center mt-5">
             <div className="col-md-8">
               <div className="card">
@@ -49,6 +49,15 @@ class Create extends React.Component {
                     </div>
                     <div className="mb-3">
                       <label htmlFor="preparationTime">Preparation Time</label>
+                      <input
+                        type="text"
+                        className="form-control"
+                        id="preparationTime"
+                        name="preparationTime"
+                      />
+                    </div>
+                    <div className="mb-3">
+                      <label htmlFor="preparationTime">Cook Time</label>
                       <input
                         type="text"
                         className="form-control"
@@ -76,10 +85,12 @@ class Create extends React.Component {
                       
                       />
                     </div>
-    
-                    <button type="submit" className="btn btn-primary btn-block">
-                      Create
+                    <div className='d-grid'>
+                    <button type="submit" 
+                    className="btn btn-success btn-block">
+                        Create
                     </button>
+                    </div>
                 </div>
               </div>
             </div>
